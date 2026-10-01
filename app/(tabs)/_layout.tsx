@@ -1,5 +1,4 @@
 import {tabs} from "@/constants/data";
-import {View} from "react-native";
 import { colors, components} from "@/constants/theme";
 import clsx from "clsx";
 import {Image} from "react-native";
